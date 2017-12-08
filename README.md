@@ -6,4 +6,5 @@ Topics on Android security
 
 ## References
 
-* Proguard https://developer.android.com/studio/build/shrink-code.html?hl=en
+* Shrink your code and resources https://developer.android.com/studio/build/shrink-code.html?hl=en
+* Proguard https://stuff.mit.edu/afs/sipb/project/android/sdk/android-sdk-linux/tools/proguard/docs/index.html#manual/introduction.html
